@@ -1,0 +1,17 @@
+{
+  "name": "botig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "npkill": "^0.8.3",
+    "puppeteer": "^15.5.0",
+    "winston": "^3.8.1"
+  }
+}

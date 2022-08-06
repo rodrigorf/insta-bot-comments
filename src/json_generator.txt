@@ -1,0 +1,6 @@
+{ 
+    "comments":[
+    	'{{repeat(1000)}}',
+        '{{lorem(2, "words")}}'
+    ]
+}
